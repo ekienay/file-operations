@@ -1,0 +1,6 @@
+id: 1 username: roma password: 1
+id: 2 username: marina password: 2
+id: 3 username: yaroslav password: 1
+id: 4 username: alexander password: 2
+id: 5 username: artem password: 1
+id: 6 username: alex password: 2
